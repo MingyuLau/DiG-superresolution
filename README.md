@@ -1,5 +1,6 @@
 # DiG-super
-## 本仓库为论文DiG的超分辨率head实现，仅供学习参考
+## 本仓库为论文DiG的超分辨率head实现，仅供学习参考, 微调的shell脚本是finetune.sh, 测试脚本是evaluation.sh
+## 构建超分图像请使用tools/create_mae_lmdb.py
 # 原仓库
 # Official PyTorch implementation of [DiG](https://arxiv.org/pdf/2207.00193)
 
